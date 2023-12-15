@@ -7,6 +7,11 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactapp", "reactapp\reacta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapi", "webapi\webapi.csproj", "{BAC6EB03-6973-4AE9-A4C0-F7C9712CBE4E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "git", "git", "{0B14825E-5080-412E-9CF7-25916060B822}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
